@@ -1,0 +1,8 @@
+.vshistory
+*.7z
+lib
+.vs
+bin
+*.dll
+*.cache
+distribution

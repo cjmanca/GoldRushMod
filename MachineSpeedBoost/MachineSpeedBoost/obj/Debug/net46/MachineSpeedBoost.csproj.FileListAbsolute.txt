@@ -1,0 +1,70 @@
+N:\Documents\projects\MachineSpeedBoost\MachineSpeedBoost\bin\Debug\net46\MachineSpeedBoost.dll
+N:\Documents\projects\MachineSpeedBoost\MachineSpeedBoost\bin\Debug\net46\MachineSpeedBoost.pdb
+N:\Documents\projects\MachineSpeedBoost\MachineSpeedBoost\bin\Debug\net46\AmplifyTexture.dll
+N:\Documents\projects\MachineSpeedBoost\MachineSpeedBoost\bin\Debug\net46\Assembly-CSharp-firstpass.dll
+N:\Documents\projects\MachineSpeedBoost\MachineSpeedBoost\bin\Debug\net46\Assembly-CSharp.dll
+N:\Documents\projects\MachineSpeedBoost\MachineSpeedBoost\bin\Debug\net46\CSG.dll
+N:\Documents\projects\MachineSpeedBoost\MachineSpeedBoost\bin\Debug\net46\EasyRoads3Dv3.dll
+N:\Documents\projects\MachineSpeedBoost\MachineSpeedBoost\bin\Debug\net46\FrustrumPlanesFromHybrid.dll
+N:\Documents\projects\MachineSpeedBoost\MachineSpeedBoost\bin\Debug\net46\Ionic.Zip.Unity.dll
+N:\Documents\projects\MachineSpeedBoost\MachineSpeedBoost\bin\Debug\net46\Mono.Posix.dll
+N:\Documents\projects\MachineSpeedBoost\MachineSpeedBoost\bin\Debug\net46\Mono.Security.dll
+N:\Documents\projects\MachineSpeedBoost\MachineSpeedBoost\bin\Debug\net46\Rewired_Core.dll
+N:\Documents\projects\MachineSpeedBoost\MachineSpeedBoost\bin\Debug\net46\Rewired_Windows.dll
+N:\Documents\projects\MachineSpeedBoost\MachineSpeedBoost\bin\Debug\net46\Unity.Analytics.DataPrivacy.dll
+N:\Documents\projects\MachineSpeedBoost\MachineSpeedBoost\bin\Debug\net46\Unity.Analytics.StandardEvents.dll
+N:\Documents\projects\MachineSpeedBoost\MachineSpeedBoost\bin\Debug\net46\Unity.Analytics.Tracker.dll
+N:\Documents\projects\MachineSpeedBoost\MachineSpeedBoost\bin\Debug\net46\Unity.Burst.dll
+N:\Documents\projects\MachineSpeedBoost\MachineSpeedBoost\bin\Debug\net46\Unity.Burst.Unsafe.dll
+N:\Documents\projects\MachineSpeedBoost\MachineSpeedBoost\bin\Debug\net46\Unity.Collections.dll
+N:\Documents\projects\MachineSpeedBoost\MachineSpeedBoost\bin\Debug\net46\Unity.Mathematics.dll
+N:\Documents\projects\MachineSpeedBoost\MachineSpeedBoost\bin\Debug\net46\Unity.MemoryProfiler.dll
+N:\Documents\projects\MachineSpeedBoost\MachineSpeedBoost\bin\Debug\net46\Unity.Postprocessing.Runtime.dll
+N:\Documents\projects\MachineSpeedBoost\MachineSpeedBoost\bin\Debug\net46\UnityEngine.Networking.dll
+N:\Documents\projects\MachineSpeedBoost\MachineSpeedBoost\bin\Debug\net46\UnityEngine.SpatialTracking.dll
+N:\Documents\projects\MachineSpeedBoost\MachineSpeedBoost\bin\Debug\net46\UnityEngine.Timeline.dll
+N:\Documents\projects\MachineSpeedBoost\MachineSpeedBoost\bin\Debug\net46\UnityEngine.UI.dll
+N:\Documents\projects\MachineSpeedBoost\MachineSpeedBoost\obj\Debug\net46\MachineSpeedBoost.csproj.AssemblyReference.cache
+N:\Documents\projects\MachineSpeedBoost\MachineSpeedBoost\obj\Debug\net46\PluginInfo.cs
+N:\Documents\projects\MachineSpeedBoost\MachineSpeedBoost\obj\Debug\net46\MachineSpeedBoost.GeneratedMSBuildEditorConfig.editorconfig
+N:\Documents\projects\MachineSpeedBoost\MachineSpeedBoost\obj\Debug\net46\MachineSpeedBoost.AssemblyInfoInputs.cache
+N:\Documents\projects\MachineSpeedBoost\MachineSpeedBoost\obj\Debug\net46\MachineSpeedBoost.AssemblyInfo.cs
+N:\Documents\projects\MachineSpeedBoost\MachineSpeedBoost\obj\Debug\net46\MachineSpeedBoost.csproj.CoreCompileInputs.cache
+N:\Documents\projects\MachineSpeedBoost\MachineSpeedBoost\obj\Debug\net46\MachineSpeedBoost.csproj.CopyComplete
+N:\Documents\projects\MachineSpeedBoost\MachineSpeedBoost\obj\Debug\net46\MachineSpeedBoost.dll
+N:\Documents\projects\MachineSpeedBoost\MachineSpeedBoost\obj\Debug\net46\MachineSpeedBoost.pdb
+N:\Documents\projects\GoldRush Mods\GoldRushMod\MachineSpeedBoost\bin\Debug\net46\MachineSpeedBoost.dll
+N:\Documents\projects\GoldRush Mods\GoldRushMod\MachineSpeedBoost\bin\Debug\net46\MachineSpeedBoost.pdb
+N:\Documents\projects\GoldRush Mods\GoldRushMod\MachineSpeedBoost\bin\Debug\net46\AmplifyTexture.dll
+N:\Documents\projects\GoldRush Mods\GoldRushMod\MachineSpeedBoost\bin\Debug\net46\Assembly-CSharp-firstpass.dll
+N:\Documents\projects\GoldRush Mods\GoldRushMod\MachineSpeedBoost\bin\Debug\net46\Assembly-CSharp.dll
+N:\Documents\projects\GoldRush Mods\GoldRushMod\MachineSpeedBoost\bin\Debug\net46\CSG.dll
+N:\Documents\projects\GoldRush Mods\GoldRushMod\MachineSpeedBoost\bin\Debug\net46\EasyRoads3Dv3.dll
+N:\Documents\projects\GoldRush Mods\GoldRushMod\MachineSpeedBoost\bin\Debug\net46\FrustrumPlanesFromHybrid.dll
+N:\Documents\projects\GoldRush Mods\GoldRushMod\MachineSpeedBoost\bin\Debug\net46\Ionic.Zip.Unity.dll
+N:\Documents\projects\GoldRush Mods\GoldRushMod\MachineSpeedBoost\bin\Debug\net46\Mono.Posix.dll
+N:\Documents\projects\GoldRush Mods\GoldRushMod\MachineSpeedBoost\bin\Debug\net46\Mono.Security.dll
+N:\Documents\projects\GoldRush Mods\GoldRushMod\MachineSpeedBoost\bin\Debug\net46\Rewired_Core.dll
+N:\Documents\projects\GoldRush Mods\GoldRushMod\MachineSpeedBoost\bin\Debug\net46\Rewired_Windows.dll
+N:\Documents\projects\GoldRush Mods\GoldRushMod\MachineSpeedBoost\bin\Debug\net46\Unity.Analytics.DataPrivacy.dll
+N:\Documents\projects\GoldRush Mods\GoldRushMod\MachineSpeedBoost\bin\Debug\net46\Unity.Analytics.StandardEvents.dll
+N:\Documents\projects\GoldRush Mods\GoldRushMod\MachineSpeedBoost\bin\Debug\net46\Unity.Analytics.Tracker.dll
+N:\Documents\projects\GoldRush Mods\GoldRushMod\MachineSpeedBoost\bin\Debug\net46\Unity.Burst.dll
+N:\Documents\projects\GoldRush Mods\GoldRushMod\MachineSpeedBoost\bin\Debug\net46\Unity.Burst.Unsafe.dll
+N:\Documents\projects\GoldRush Mods\GoldRushMod\MachineSpeedBoost\bin\Debug\net46\Unity.Collections.dll
+N:\Documents\projects\GoldRush Mods\GoldRushMod\MachineSpeedBoost\bin\Debug\net46\Unity.Mathematics.dll
+N:\Documents\projects\GoldRush Mods\GoldRushMod\MachineSpeedBoost\bin\Debug\net46\Unity.MemoryProfiler.dll
+N:\Documents\projects\GoldRush Mods\GoldRushMod\MachineSpeedBoost\bin\Debug\net46\Unity.Postprocessing.Runtime.dll
+N:\Documents\projects\GoldRush Mods\GoldRushMod\MachineSpeedBoost\bin\Debug\net46\UnityEngine.Networking.dll
+N:\Documents\projects\GoldRush Mods\GoldRushMod\MachineSpeedBoost\bin\Debug\net46\UnityEngine.SpatialTracking.dll
+N:\Documents\projects\GoldRush Mods\GoldRushMod\MachineSpeedBoost\bin\Debug\net46\UnityEngine.Timeline.dll
+N:\Documents\projects\GoldRush Mods\GoldRushMod\MachineSpeedBoost\bin\Debug\net46\UnityEngine.UI.dll
+N:\Documents\projects\GoldRush Mods\GoldRushMod\MachineSpeedBoost\obj\Debug\net46\MachineSpeedBoost.csproj.AssemblyReference.cache
+N:\Documents\projects\GoldRush Mods\GoldRushMod\MachineSpeedBoost\obj\Debug\net46\PluginInfo.cs
+N:\Documents\projects\GoldRush Mods\GoldRushMod\MachineSpeedBoost\obj\Debug\net46\MachineSpeedBoost.GeneratedMSBuildEditorConfig.editorconfig
+N:\Documents\projects\GoldRush Mods\GoldRushMod\MachineSpeedBoost\obj\Debug\net46\MachineSpeedBoost.AssemblyInfoInputs.cache
+N:\Documents\projects\GoldRush Mods\GoldRushMod\MachineSpeedBoost\obj\Debug\net46\MachineSpeedBoost.AssemblyInfo.cs
+N:\Documents\projects\GoldRush Mods\GoldRushMod\MachineSpeedBoost\obj\Debug\net46\MachineSpeedBoost.csproj.CoreCompileInputs.cache
+N:\Documents\projects\GoldRush Mods\GoldRushMod\MachineSpeedBoost\obj\Debug\net46\MachineSpeedBoost.csproj.CopyComplete
+N:\Documents\projects\GoldRush Mods\GoldRushMod\MachineSpeedBoost\obj\Debug\net46\MachineSpeedBoost.dll
+N:\Documents\projects\GoldRush Mods\GoldRushMod\MachineSpeedBoost\obj\Debug\net46\MachineSpeedBoost.pdb

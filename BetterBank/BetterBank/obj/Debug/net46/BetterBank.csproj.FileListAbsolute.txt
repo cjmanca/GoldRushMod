@@ -1,0 +1,70 @@
+N:\Documents\projects\BetterBank\BetterBank\bin\Debug\net46\BetterBank.dll
+N:\Documents\projects\BetterBank\BetterBank\bin\Debug\net46\BetterBank.pdb
+N:\Documents\projects\BetterBank\BetterBank\bin\Debug\net46\AmplifyTexture.dll
+N:\Documents\projects\BetterBank\BetterBank\bin\Debug\net46\Assembly-CSharp-firstpass.dll
+N:\Documents\projects\BetterBank\BetterBank\bin\Debug\net46\Assembly-CSharp.dll
+N:\Documents\projects\BetterBank\BetterBank\bin\Debug\net46\CSG.dll
+N:\Documents\projects\BetterBank\BetterBank\bin\Debug\net46\EasyRoads3Dv3.dll
+N:\Documents\projects\BetterBank\BetterBank\bin\Debug\net46\FrustrumPlanesFromHybrid.dll
+N:\Documents\projects\BetterBank\BetterBank\bin\Debug\net46\Ionic.Zip.Unity.dll
+N:\Documents\projects\BetterBank\BetterBank\bin\Debug\net46\Mono.Posix.dll
+N:\Documents\projects\BetterBank\BetterBank\bin\Debug\net46\Mono.Security.dll
+N:\Documents\projects\BetterBank\BetterBank\bin\Debug\net46\Rewired_Core.dll
+N:\Documents\projects\BetterBank\BetterBank\bin\Debug\net46\Rewired_Windows.dll
+N:\Documents\projects\BetterBank\BetterBank\bin\Debug\net46\Unity.Analytics.DataPrivacy.dll
+N:\Documents\projects\BetterBank\BetterBank\bin\Debug\net46\Unity.Analytics.StandardEvents.dll
+N:\Documents\projects\BetterBank\BetterBank\bin\Debug\net46\Unity.Analytics.Tracker.dll
+N:\Documents\projects\BetterBank\BetterBank\bin\Debug\net46\Unity.Burst.dll
+N:\Documents\projects\BetterBank\BetterBank\bin\Debug\net46\Unity.Burst.Unsafe.dll
+N:\Documents\projects\BetterBank\BetterBank\bin\Debug\net46\Unity.Collections.dll
+N:\Documents\projects\BetterBank\BetterBank\bin\Debug\net46\Unity.Mathematics.dll
+N:\Documents\projects\BetterBank\BetterBank\bin\Debug\net46\Unity.MemoryProfiler.dll
+N:\Documents\projects\BetterBank\BetterBank\bin\Debug\net46\Unity.Postprocessing.Runtime.dll
+N:\Documents\projects\BetterBank\BetterBank\bin\Debug\net46\UnityEngine.Networking.dll
+N:\Documents\projects\BetterBank\BetterBank\bin\Debug\net46\UnityEngine.SpatialTracking.dll
+N:\Documents\projects\BetterBank\BetterBank\bin\Debug\net46\UnityEngine.Timeline.dll
+N:\Documents\projects\BetterBank\BetterBank\bin\Debug\net46\UnityEngine.UI.dll
+N:\Documents\projects\BetterBank\BetterBank\obj\Debug\net46\BetterBank.csproj.AssemblyReference.cache
+N:\Documents\projects\BetterBank\BetterBank\obj\Debug\net46\PluginInfo.cs
+N:\Documents\projects\BetterBank\BetterBank\obj\Debug\net46\BetterBank.GeneratedMSBuildEditorConfig.editorconfig
+N:\Documents\projects\BetterBank\BetterBank\obj\Debug\net46\BetterBank.AssemblyInfoInputs.cache
+N:\Documents\projects\BetterBank\BetterBank\obj\Debug\net46\BetterBank.AssemblyInfo.cs
+N:\Documents\projects\BetterBank\BetterBank\obj\Debug\net46\BetterBank.csproj.CoreCompileInputs.cache
+N:\Documents\projects\BetterBank\BetterBank\obj\Debug\net46\BetterBank.csproj.CopyComplete
+N:\Documents\projects\BetterBank\BetterBank\obj\Debug\net46\BetterBank.dll
+N:\Documents\projects\BetterBank\BetterBank\obj\Debug\net46\BetterBank.pdb
+N:\Documents\projects\GoldRush Mods\BetterBank\BetterBank\bin\Debug\net46\BetterBank.dll
+N:\Documents\projects\GoldRush Mods\BetterBank\BetterBank\bin\Debug\net46\BetterBank.pdb
+N:\Documents\projects\GoldRush Mods\BetterBank\BetterBank\bin\Debug\net46\AmplifyTexture.dll
+N:\Documents\projects\GoldRush Mods\BetterBank\BetterBank\bin\Debug\net46\Assembly-CSharp-firstpass.dll
+N:\Documents\projects\GoldRush Mods\BetterBank\BetterBank\bin\Debug\net46\Assembly-CSharp.dll
+N:\Documents\projects\GoldRush Mods\BetterBank\BetterBank\bin\Debug\net46\CSG.dll
+N:\Documents\projects\GoldRush Mods\BetterBank\BetterBank\bin\Debug\net46\EasyRoads3Dv3.dll
+N:\Documents\projects\GoldRush Mods\BetterBank\BetterBank\bin\Debug\net46\FrustrumPlanesFromHybrid.dll
+N:\Documents\projects\GoldRush Mods\BetterBank\BetterBank\bin\Debug\net46\Ionic.Zip.Unity.dll
+N:\Documents\projects\GoldRush Mods\BetterBank\BetterBank\bin\Debug\net46\Mono.Posix.dll
+N:\Documents\projects\GoldRush Mods\BetterBank\BetterBank\bin\Debug\net46\Mono.Security.dll
+N:\Documents\projects\GoldRush Mods\BetterBank\BetterBank\bin\Debug\net46\Rewired_Core.dll
+N:\Documents\projects\GoldRush Mods\BetterBank\BetterBank\bin\Debug\net46\Rewired_Windows.dll
+N:\Documents\projects\GoldRush Mods\BetterBank\BetterBank\bin\Debug\net46\Unity.Analytics.DataPrivacy.dll
+N:\Documents\projects\GoldRush Mods\BetterBank\BetterBank\bin\Debug\net46\Unity.Analytics.StandardEvents.dll
+N:\Documents\projects\GoldRush Mods\BetterBank\BetterBank\bin\Debug\net46\Unity.Analytics.Tracker.dll
+N:\Documents\projects\GoldRush Mods\BetterBank\BetterBank\bin\Debug\net46\Unity.Burst.dll
+N:\Documents\projects\GoldRush Mods\BetterBank\BetterBank\bin\Debug\net46\Unity.Burst.Unsafe.dll
+N:\Documents\projects\GoldRush Mods\BetterBank\BetterBank\bin\Debug\net46\Unity.Collections.dll
+N:\Documents\projects\GoldRush Mods\BetterBank\BetterBank\bin\Debug\net46\Unity.Mathematics.dll
+N:\Documents\projects\GoldRush Mods\BetterBank\BetterBank\bin\Debug\net46\Unity.MemoryProfiler.dll
+N:\Documents\projects\GoldRush Mods\BetterBank\BetterBank\bin\Debug\net46\Unity.Postprocessing.Runtime.dll
+N:\Documents\projects\GoldRush Mods\BetterBank\BetterBank\bin\Debug\net46\UnityEngine.Networking.dll
+N:\Documents\projects\GoldRush Mods\BetterBank\BetterBank\bin\Debug\net46\UnityEngine.SpatialTracking.dll
+N:\Documents\projects\GoldRush Mods\BetterBank\BetterBank\bin\Debug\net46\UnityEngine.Timeline.dll
+N:\Documents\projects\GoldRush Mods\BetterBank\BetterBank\bin\Debug\net46\UnityEngine.UI.dll
+N:\Documents\projects\GoldRush Mods\BetterBank\BetterBank\obj\Debug\net46\BetterBank.csproj.AssemblyReference.cache
+N:\Documents\projects\GoldRush Mods\BetterBank\BetterBank\obj\Debug\net46\PluginInfo.cs
+N:\Documents\projects\GoldRush Mods\BetterBank\BetterBank\obj\Debug\net46\BetterBank.GeneratedMSBuildEditorConfig.editorconfig
+N:\Documents\projects\GoldRush Mods\BetterBank\BetterBank\obj\Debug\net46\BetterBank.AssemblyInfoInputs.cache
+N:\Documents\projects\GoldRush Mods\BetterBank\BetterBank\obj\Debug\net46\BetterBank.AssemblyInfo.cs
+N:\Documents\projects\GoldRush Mods\BetterBank\BetterBank\obj\Debug\net46\BetterBank.csproj.CoreCompileInputs.cache
+N:\Documents\projects\GoldRush Mods\BetterBank\BetterBank\obj\Debug\net46\BetterBank.csproj.CopyComplete
+N:\Documents\projects\GoldRush Mods\BetterBank\BetterBank\obj\Debug\net46\BetterBank.dll
+N:\Documents\projects\GoldRush Mods\BetterBank\BetterBank\obj\Debug\net46\BetterBank.pdb
